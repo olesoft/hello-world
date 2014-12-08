@@ -1,5 +1,6 @@
-Test 2 document
+Test 3 document
 
 I make an edit of this document. I'm wonder whether it will be in my local repo.
-I modyfied this.
+I modyfied this again.
 Tak tak
+AND NOW, to it.
