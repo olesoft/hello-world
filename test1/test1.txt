@@ -1,4 +1,5 @@
-Test 1 document
+Test 2 document
 
 I make an edit of this document. I'm wonder whether it will be in my local repo.
+I modyfied this.
 Tak tak
