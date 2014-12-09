@@ -1,4 +1,5 @@
 a'la carte
 po modyfikajci
-Modyfikuje po zmianie nazwy
+Modyfikuje po zmianie nazwy 
+I modyfikuje znowu
 A teraz modyfikuje. Pózniej dodam i rm --cached oraz commit. Będzie w repo czy zniknie?
