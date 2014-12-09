@@ -1,2 +1,4 @@
 a t ci zmiany
 dodaje nowe zmieany
+
+test push
