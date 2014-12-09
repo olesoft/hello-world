@@ -1,7 +1,8 @@
 Test 4 document
 
 I make an edit of this document. I'm wonder whether it will be in my local repo.
-I modyfied this again.
+I modyfied this third time and again.
+
 Tak tak
 AND NOW, to it.
 FOUR
