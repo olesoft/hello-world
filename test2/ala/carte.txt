@@ -1,4 +1,0 @@
-a'la carte
-po modyfikajci
-
-A teraz modyfikuje. Pózniej dodam i rm --cached oraz commit. Będzie w repo czy zniknie?
